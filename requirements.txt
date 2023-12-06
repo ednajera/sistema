@@ -10,4 +10,4 @@ datetime
 openpyxl==3.1.2
 matplotlib
 docx2pdf
-pywin32
+phytoncom
