@@ -11,7 +11,7 @@ from docxtpl import DocxTemplate
 import base64
 import zipfile
 from docx2pdf import convert
-import pythoncom  # Agrega esta importación
+#import pythoncom  # Agrega esta importación
 
 # Inicializa el contexto de la biblioteca COM
 pythoncom.CoInitialize()
