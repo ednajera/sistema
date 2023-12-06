@@ -14,7 +14,7 @@ from docx2pdf import convert
 #import pythoncom  # Agrega esta importación
 
 # Inicializa el contexto de la biblioteca COM
-pythoncom.CoInitialize()
+#pythoncom.CoInitialize()
 #from docx2pdf import convert
 #import win32com.client
 
